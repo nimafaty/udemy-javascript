@@ -4,11 +4,13 @@ Ce dépôt contient les réalisations des exercices de ma formation Udemy en Jav
 
 ## Architecture
 
+```bash
    .
    ├ Jeu_du_serpent
    │   ├ script.js
    │   └ serpent.html
    └ README.md
+```
 
 ## Jeu du serpent
 ...
